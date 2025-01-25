@@ -1,16 +1,16 @@
 # Gross-pay
-Analysis of employee gross pay for year 2024, State of Missouri, USA
-I sourced for the dataset from Kaggle.com/datasets/ishajangir/2024-state-employee-pay
-Thanks to Ishajangir for sharing.
+Analysis of employee gross pay for year 2024, State of Missouri, USA. 
+I sourced for the dataset from Kaggle.com/datasets/ishajangir/2024-state-employee-pay. 
+Thanks to Ishajangir for sharing. 
 
-This dataset containns salary information for state employees of the State of Missouri, USA.
-It includes key features such as the calender year, agency name, employee position, employee name and salary
-The dataset offers a comprehensive view of public sector compensation witthin the state.
+This dataset containns salary information for state employees of the State of Missouri, USA. 
+It includes key features such as the calender year, agency name, employee position, employee name and salary. 
+The dataset offers a comprehensive view of public sector compensation witthin the state. 
 The dataset contains 72,869 rows of data. 
 
-I explored the data set for null values and blanks within Excel and proceeded to create a new schema in Mysql named missouri_public_employees
-I then created a table named pay_data and uploaded the .csv dataset file.
-i.e missouri_public_employees.pay_data
+I explored the data set for null values and blanks within Excel and proceeded to create a new schema in Mysql named missouri_public_employees. 
+I then created a table named pay_data and uploaded the .csv dataset file. 
+i.e missouri_public_employees.pay_data. 
 To gain insights into the dataset i came up with the following analytical questions and solutions using SQL and Excel: 
 
 1. what is the total number of public sector employees paid in year 2024
