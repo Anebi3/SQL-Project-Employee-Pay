@@ -13,16 +13,16 @@ I then created a table named pay_data and uploaded the .csv dataset file.
 i.e missouri_public_employees.pay_data
 To gain insights into the dataset i came up with the following analytical questions and solutions using SQL and Excel: 
 
-## 1. what is the total number of public sector employees paid in year 2024
-## 2. what is the average salary of public employees accross the entire state
-## 3. what is the maximum salary paid in year 2024
-## 4. what is the minimum salary paid in year 2024
-## 5. who was paid the highest salary and in what agency was the person employed/job title
-## 6. who was paid the minimum salary and in what agency was the person employed/job title
-## 7. what is the average salary of missori public sector workers
-## 8. what proportion of employees earn between above 100k annually and below 100k annually
-## 9. which job postions earned the highest and lowest on average.
-## 10. which agencies paid the highest and lowest on average
+# 1. what is the total number of public sector employees paid in year 2024
+# 2. what is the average salary of public employees accross the entire state
+# 3. what is the maximum salary paid in year 2024
+# 4. what is the minimum salary paid in year 2024
+# 5. who was paid the highest salary and in what agency was the person employed/job title
+# 6. who was paid the minimum salary and in what agency was the person employed/job title
+# 7. what is the average salary of missori public sector workers
+# 8. what proportion of employees earn between above 100k annually and below 100k annually
+# 9. which job postions earned the highest and lowest on average.
+# 10. which agencies paid the highest and lowest on average
 
 	## To view the dataset:
 SELECT *
