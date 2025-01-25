@@ -5,10 +5,10 @@ Thanks to Ishajangir for sharing.
 
 This dataset contains salary information for employees of the State of Missouri, USA. 
 It includes key features such as the calender year, agency name, employee position, employee name and salary. 
-The dataset offers a comprehensive view of public sector compensation witthin the state. 
+The dataset offers a comprehensive view of public sector emolument within the state. 
 The dataset contains 72,869 rows of data. 
 
-I explored the data set for null values and blanks within Excel using conditional formating and data validation.  I then proceeded to create a new schema in Mysql named missouri_public_employees. 
+I explored the data set for null values and blanks within Excel using conditional formating and data validation.  I then proceeded to create a new schema in Mysql workbench named missouri_public_employees. 
 Next i created a table named pay_data and uploaded the .csv dataset file. 
 i.e missouri_public_employees.pay_data. 
 
@@ -24,6 +24,8 @@ To gain insights into the dataset i came up with the following analytical questi
 8. what proportion of employees earn between above 100k annually and below 100k annually
 9. which job postions earned the highest and lowest on average.
 10. which agencies paid the highest and lowest on average
+
+These are the steps i took in MYSQL:
 
 	## To view the dataset:
 SELECT *
