@@ -1,6 +1,6 @@
 # Gross-pay
 Analysis of employee gross pay for year 2024, State of Missouri, USA. 
-I sourced for the dataset from Kaggle.com/datasets/ishajangir/2024-state-employee-pay. 
+I sourced the dataset from Kaggle.com/datasets/ishajangir/2024-state-employee-pay. 
 Thanks to Ishajangir for sharing. 
 
 This dataset containns salary information for state employees of the State of Missouri, USA. 
